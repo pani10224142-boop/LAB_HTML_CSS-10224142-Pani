@@ -1,0 +1,33 @@
+<html>
+<head>
+<title>Campus</title>
+<style>
+.header { background-color: #003366; color: white; padding: 20px; width: 1200px; }
+.nav a { color: #cccccc !important; margin-right: 10px; }
+.content { font-size: 14px; color: #bbbbbb; }
+.sidebar { float: right; width: 300px; }
+.title { font-size: 32px; }
+</style>
+</head>
+<body>
+<div class="header">
+  <div class="title"><b>STT Cipasung</b></div>
+  <div class="nav">
+    <a href="#">Home</a> | <a href="#">Programs</a> | <a href="#">Contact</a>
+  </div>
+</div>
+<div class="content">
+  <div style="font-size: 24px; font-weight: bold;">About Us</div>
+  <br><br>
+  <div>STT Cipasung is a technology college in Tasikmalaya.</div>
+  <br>
+  <img src="https://placehold.co/600x300?text=STT+Cipasung">
+  <br><br>
+  <div style="font-size: 24px; font-weight: bold;">Contact Us</div>
+  <input type="text" placeholder="Name"><br>
+  <input type="text" placeholder="Email"><br>
+  <button onclick="alert('Sent!')">Send</button>
+</div>
+<div class="footer">Copyright 2026</div>
+</body>
+</htm
